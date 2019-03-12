@@ -1,2 +1,2 @@
-# beautifullSoup-scraping
+# beautifulSoup-scraping
 scrapping of economist news
